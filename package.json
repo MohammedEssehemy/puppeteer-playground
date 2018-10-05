@@ -1,0 +1,17 @@
+{
+  "name": "puppeteer-snapshot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "puppeteer-pool.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "generic-pool": "^3.4.2",
+    "puppeteer": "^1.9.0"
+  }
+}
